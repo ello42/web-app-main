@@ -1,0 +1,23 @@
+q01:Which one of the following could be a complete and accurate list of the performers who sign with each agency?:b
+q02:Which one of the following could be true?:a
+q03:Which one of the following must be true?:b
+q04:The agency with which each of the performers signs is completely determined if which one of the following is true?:b
+q05:If Zinser signs with Star Agency, which one of the following must be false?:c
+q06:Which one of the following could be the order in which the designs are presented, from first to last?:c
+q07:Mertz’s design CANNOT be presented:a
+q08:If Liu’s design is presented sixth, then which one of the following must be true?:a
+q09:If Jackson’s design is presented at some time before Mertz’s, then each of the following could be true EXCEPT-:d
+q10:Which one of the following designs CANNOT be the design presented first?:c
+q11:Which one of the following could be an accurate partial list of the architects, each matched with his or her design’s place in the order in which the designs are presented?:b
+q12:Which one of the following could be true?:b
+q13:If Z was the second suspect to confess, then each of the following statements could be true EXCEPT-:e
+q14:If Y was questioned after V but before X, then which one of the following could be true?:a 
+q15:Which one of the following suspects must have been questioned before T was questioned?:e
+q16:If X and Y both confessed, then each of the following could be true EXCEPT-:a
+q17:If neither X nor V confessed, then which one of the following must be true?:d
+q18:Which one of the following could be an accurate list of the members of each of the three highest-placing teams?:e
+q19:If Pavlovich is on the team from Hilltop High, then which one of the following could be true?:a
+q20:If O’Rourke is on the second-place team, then which one of the following could be true?:b
+q21:If Pavlovich and Tsudama are teammates, then for how many of the individuals can it be exactly determined where his or her team places?:c
+q22:If Mei is on a team that places higher than the Hilltop team, then which one of the following could be true?:e
+q23:Sethna’s teammate could be any one of the following EXCEPT-:b

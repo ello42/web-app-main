@@ -1,0 +1,115 @@
+q01:a:Fame Agency- Xavier, Premier Agency- West, Star Agency- Traugott, Young, Zinser
+q01:b:Fame Agency- Xavier, Premier Agency- Traugott, West, Star Agency- Young, Zinser
+q01:c:Fame Agency- Xavier, Premier Agency- Traugott, Young, Star Agency- West, Zinser
+q01:d:Fame Agency- Young, Zinser, Premier Agency- Xavier, Star Agency- Traugott, West
+q01:e:Fame Agency- Xavier, Young, Zinser, Premier Agency- Traugott, Star Agency- West
+q02:a:West is the only performer who signs with Star Agency.
+q02:b:West, Young, and Zinser all sign with Premier Agency.
+q02:c:Xavier signs with the same agency as Zinser.
+q02:d:Zinser is the only performer who signs with Star Agency.
+q02:e:Three of the performers sign with Fame Agency.
+q03:a:West and Zinser do not sign with the same agency as each other.
+q03:b:Fame Agency signs at most two of the performers.
+q03:c:Fame Agency signs the same number of the performers as Star Agency.
+q03:d:Traugott signs with the same agency as West.
+q03:e:West does not sign with Fame Agency.
+q04:a:Traugott signs with Fame Agency.
+q04:b:Traugott signs with Star Agency.
+q04:c:West signs with Premier Agency.
+q04:d:Xavier signs with Fame Agency.
+q04:e:Zinser signs with Premier Agency.
+q05:a:Premier Agency signs exactly one performer.
+q05:b:Star Agency signs exactly three of the performers.
+q05:c:Traugott signs with Star Agency.
+q05:d:West signs with Star Agency.
+q05:e:None of the other performers signs with the same agency as Xavier.
+q06:a:Jackson’s, Peete’s, Mertz’s, Green’s, Valdez’s, Liu’s
+q06:b:Peete’s, Jackson’s, Liu’s, Mertz’s, Green’s, Valdez’s
+q06:c:Peete’s, Mertz’s, Jackson’s, Liu’s, Green’s, Valdez’s
+q06:d:Peete’s, Mertz’s, Valdez’s, Green’s, Liu’s, Jackson’s
+q06:e:Valdez’s, Liu’s, Jackson’s, Peete’s, Mertz’s, Green’s
+q07:a:sixth
+q07:b:fifth
+q07:c:fourth
+q07:d:third
+q07:e:second
+q08:a:Green’s design is presented at some time before Jackson’s.
+q08:b:Jackson’s design is presented at some time before Mertz’s.
+q08:c:Peete’s design is presented at some time before Green’s.
+q08:d:Peete’s design is presented at some time before Valdez’s.
+q08:e:Valdez’s design is presented at some time before Green’s.
+q09:a:Jackson’s design is presented second.
+q09:b:Peete’s design is presented third.
+q09:c:Peete’s design is presented fourth.
+q09:d:Jackson’s design is presented fifth.
+q09:e:Liu’s design is presented fifth.
+q10:a:Green’s
+q10:b:Jackson’s
+q10:c:Liu’s
+q10:d:Peete’s
+q10:e:Valdez’s
+q11:a:first- Mertz; fourth- Liu; fifth- Green
+q11:b:second- Green; third- Peete; fourth- Jackson
+q11:c:second- Mertz; fifth- Green; sixth- Jackson
+q11:d:fourth- Peete; fifth- Liu; sixth- Jackson
+q11:e:fourth- Valdez; fifth- Green; sixth- Liu
+q12:a:X was questioned on day one.
+q12:b:V was questioned on day two.
+q12:c:Z was questioned on day four.
+q12:d:W was questioned on day five.
+q12:e:S was questioned on day six.
+q13:a:T confessed.
+q13:b:T did not confess.
+q13:c:V did not confess.
+q13:d:X confessed.
+q13:e:Y did not confess.
+q14:a:V did not confess
+q14:b:Y confessed.
+q14:c:X did not confess
+q14:d:X was questioned on day four.
+q14:e:Z was questioned on day two.
+q15:a:V
+q15:b:W
+q15:c:X
+q15:d:Y
+q15:e:Z
+q16:a:V confessed.
+q16:b:X was questioned on day five.
+q16:c:Y was questioned on day one.
+q16:d:Z was questioned on day one.
+q16:e:Z did not confess.
+q17:a:T confessed.
+q17:b:V was questioned on day two.
+q17:c:X was questioned on day four.
+q17:d:Y confessed.
+q17:e:Z did not confess.
+q18:a:first place- Mei and O’Rourke, second place- Pavlovich and Sethna, third place- Navarro and Tsudama
+q18:b:first place- Mei and Pavlovich, second place- Sethna and Tsudama, third place- Navarro and O’Rourke
+q18:c:first place- Navarro and Sethna, second place- Pavlovich and Tsudama, third place- Mei and O’Rourke
+q18:d:first place- O’Rourke and Pavlovich, second place- Navarro and Tsudama, third place- Mei and Sethna
+q18:e:first place- Pavlovich and Sethna, second place- O’Rourke and Tsudama, third place- Mei and Navarro
+q19:a:O’Rourke is on the first-place team.
+q19:b:Pavlovich is on the first-place team.
+q19:c:Mei is on the second-place team.
+q19:d:Navarro is on the second-place team.
+q19:e:Sethna is on the second-place team.
+q20:a:Mei is on the team from Gillom High.
+q20:b:Navarro is on the team from Fairview High.
+q20:c:O’Rourke is on the team from Gillom High.
+q20:d:Pavlovich is on the team from Hilltop High.
+q20:e:Tsudama is on the team from Gillom High.
+q21:a:two
+q21:b:three
+q21:c:four
+q21:d:five
+q21:e:six
+q22:a:The Fairview team places first.
+q22:b:The Gillom team places second.
+q22:c:Navarro is on the second-place team.
+q22:d:O’Rourke is on the first-place team.
+q22:e:Pavlovich is on the first-place team.
+q23:a:Mei
+q23:b:Navarro
+q23:c:O’Rourke
+q23:d:Pavlovich
+q23:e:Tsudama

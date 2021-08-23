@@ -1,0 +1,27 @@
+q01:Which one of the following most accurately expresses the main point of the passage?:a
+q02:Given the information in the passage, which one of the following is Lum most likely to believe?:c
+q03:The author of the passage uses the phrase “the flux within Hawaiian society” primarily in order to:d
+q04:According to the passage, some Asian American literature from Hawaii has been characterized as which one of the following?:c
+q05:The author of the passage describes Expounding the Doubtful Points as “striking” primarily in order to:d
+q06:With which one of the following statements regarding Lum’s poetry would the author of the passage be most likely to agree?:d
+q07:Which one of the following statements best expresses the main idea of the passage?:d
+q08:It can be inferred that the author of the passage believes which one of the following about the history of law in relation to modern jurisprudence?:a
+q09:Which one of the following would best exemplify the kind of interpretive theory referred to in the first sentence of the second paragraph of the passage?:c
+q10:It can be inferred from the passage that Peter Goodrich would be most likely to agree with which one of the following statements concerning common law?:e
+q11:Which one of the following best defines the word “political” as it is used in the second paragraph of the passage?:d
+q12:The passage states that students of British law are frequently required to study:b
+q13:Which one of the following best describes the author’s opinion of most modern academic theories of common law?:b
+q14:The primary purpose of the passage is to:a
+q15:Which one of the following is discussed in passage B but not in passage A?:a
+q16:Both passages place in opposition the members of which one of the following pairs?:c
+q17:Both passages refer to which one of the following?:d
+q18:It can be inferred from the passages that the authors believe that the increased constraint on access to scientific information and ideas arises from:c
+q19:Which one of the following statements is most strongly supported by both passages?:d
+q20:Which one of the following most accurately expresses the main point of the passage?:c
+q21:Based on the passage, the author would probably hold that which one of the following principles is fundamental to long-term predatory control of agricultural pests?:d
+q22:Which one of the following is mentioned in the passage as a factor contributing to the effectiveness of Typhlodromus as a predator?:e
+q23:Suppose that pesticide X drastically slows the reproductive rate of cyclamen mites and has no other direct effect on cyclamen mites or Typhlodromus. Based on the information in the passage, which one of the following would most likely have occurred if, in the experiments mentioned in the passage, pesticide X had been used instead of parathion, with all other conditions affecting the experiments remaining the same?:a
+q24:It can be inferred from the passage that the author would be most likely to agree with which one of the following statements about the use of predators to control pest populations?:c
+q25:The author mentions the egg-laying ability of each kind of mite primarily in order to support which one of the following claims?:d
+q26:Which one of the following would, if true, most strengthen the author’s position regarding the practical applicability of the information about predatory mites presented in the passage?:e
+q27:Information in the passage most strongly supports which one of the following statements?:a

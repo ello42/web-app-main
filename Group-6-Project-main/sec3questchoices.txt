@@ -1,0 +1,125 @@
+q01:a:Problems with electronic goods that occur after the manufacturer’s warranty expires are generally inexpensive to fix in comparison with the cost of an extended warranty.
+q01:b:Because problems are so infrequent after the manufacturer’s warranty expires, extended warranties on electronic goods are generally inexpensive.
+q01:c:Most of those who buy extended warranties on electronic goods do so because special circumstances make their item more likely to break than is usually the case.
+q01:d:Some extended warranties on electronic goods cover the product for the period covered by the manufacturer’s warranty as well as subsequent years.
+q01:e:Retail stores sell extended warranties in part because consumers who purchase them are likely to purchase other products from the same store.
+q02:a:attacks the environmentalists themselves instead of their positions
+q02:b:presumes, without providing warrant, that only an absence of environmental regulations could prevent environmental degradation 
+q02:c:fails to consider the possibility that the condition of the environment would have worsened even more without environmental regulations
+q02:d:fails to justify its presumption that reducing excessive regulations is more important than preserving the environment 
+q02:e:fails to consider the views of the environmentalists’ opponents
+q03:a:Sounds that were never used in past musical compositions are used today.
+q03:b:Sounds that were once considered dissonant are more pleasing to modern listeners.
+q03:c:It is inappropriate to take a developmental view of music.
+q03:d:It is unwise to say that one composer is better than another.
+q03:e:Our understanding of music can improve over the course of time.
+q04:a:A careful search discovered no live mosquitoes in the vicinity of the device after the test.
+q04:b:A very large proportion of the insects that were attracted to the device were not mosquitoes.
+q04:c:The device is more likely to kill beneficial insects than it is to kill harmful insects.
+q04:d:Many of the insects that were killed by the device are mosquito-eating insects.
+q04:e:The device does not succeed in killing all of the insects that it attracts.
+q05:a:It is unlikely that brain-scanning technology will ever enable researchers to understand how the brain enables us to think.
+q05:b:There is no way that researchers can know for certain that subjects whose brains are being scanned are accurately reporting what they are thinking.
+q05:c:Because subjects whose brains are being scanned may not accurately report what they are thinking, the results of brain-scanning research should be regarded with great skepticism.
+q05:d:Brain scans can provide information about the accuracy of the verbal reports of subjects whose brains are being scanned.
+q05:e:Information from brain scans can help researchers understand how the brain enables us to think only if the verbal reports of those whose brains are being scanned are accurate.
+q06:a:assumes, without providing justification, that the feeding behavior of the birds observed was not affected by the ornithologist’s act of observation
+q06:b:fails to specify the nature of the animal food sources, other than insects, that were consumed by the birds
+q06:c:adopts a widespread belief about the birds’ feeding habits without considering the evidence that led to the belief
+q06:d:neglects the possibility that the birds have different patterns of food consumption during different parts of the day and night
+q06:e:fails to consider the possibility that the birds’ diet has changed since the earlier belief about their diet was formed
+q07:a:requires for the fulfillment of its goals the stimulation as well as the satisfaction of curiosity
+q07:b:necessitates the creative use of rewards that are not inherent in the learning process itself
+q07:c:is to focus primarily on those topics that do not initially interest the students
+q07:d:is facilitated by students’ taking responsibility for their own learning
+q07:e:becomes easier if students realize that some learning is not necessarily enjoyable
+q08:a:In at least some landfills that have been converted into public parks there are bacteria that degrade household cleaning products.
+q08:b:Converting a landfill into a public park will cause no damage to human health unless toxic vapors are produced in that landfill and humans are exposed to them.
+q08:c:If a practice involves the exposure of humans to vapors from household cleaning products, then it causes at least some damage to human health.
+q08:d:When landfills are converted to public parks, measures could be taken that would prevent people using the parks from being exposed to toxic vapors.
+q08:e:If vapors toxic to humans are produced by the degradation of household cleaning products by bacteria in any landfill, then the health of at least some humans will suffer.
+q09:a:Several other popular beverages contain the same addictive chemical that is found in camellia tea.
+q09:b:Addictive chemicals are unlikely to cause kidney damage solely by virtue of their addictive qualities.
+q09:c:Some people claim that regular consumption of camellia tea helps alleviate their stress.
+q09:d:Most people who regularly drink camellia tea do not develop kidney damage.
+q09:e:Many people who regularly consume camellia tea also regularly consume other beverages suspected of causing kidney damage.
+q10:a:It serves to bolster the argument’s main conclusion.
+q10:b:It identifies a view that is ultimately disputed by the argument.
+q10:c:It identifies a position supported by the initial premise in the argument.
+q10:d:It provides support for the initial premise in the argument.
+q10:e:It provides support for a counterargument to the initial premise.
+q11:a:Most international travel for the sake of business occurs between countries with contiguous borders.
+q11:b:Some businesspeople who travel internationally greatly enjoy the changes in climate and immersion in another culture.
+q11:c:Businesspeople who already suffer from chronic insomnia are no more likely than businesspeople who do not to accept assignments from their employers that require international travel.
+q11:d:Experiencing dramatic changes in climate and disruption of daily routines through international travel can be beneficial to some people who suffer from chronic insomnia.
+q11:e:Some businesspeople who once traveled internationally but no longer do so complain of various sleep-related ailments.
+q12:a:Projects undertaken primarily for spiritual reasons ought to be abandoned if the risks are great.
+q12:b:Dangerous activities that are unlikely to result in significant spiritual benefits for those undertaking them should be avoided.
+q12:c:Activities that are extremely dangerous ought to be legally prohibited unless they are necessary to produce spiritual enlightenment.
+q12:d:Profound spiritual experiences can be achieved without undergoing the serious danger involved in mountain climbing.
+q12:e:Mountain climbers and other athletes should carefully examine the underlying reasons they have for participating in their sports.
+q13:a:Each part of this car is nearly perfectly engineered. Therefore this car is nearly perfect, from an engineering point of view.
+q13:b:Each part of this desk is made of metal. Therefore this desk is made of metal.
+q13:c:Each brick in this wall is rectangular. Therefore this wall is rectangular.
+q13:d:Each piece of wood in this chair is sturdy. Therefore this chair is sturdy.
+q13:e:Each sentence in this novel is well constructed. Therefore this is a well-constructed novel.
+q14:a:It is in the nature of violent crime that it is not premeditated.
+q14:b:About one-fourth of all suspects first arrested for a crime are actually innocent.
+q14:c:Many violent crimes are committed by first-time offenders.
+q14:d:Everyone accused of a crime has the right to a trial.
+q14:e:Countries that promptly punish suspected lawbreakers have lower crime rates than countries that allow long trials.
+q15:a:Anyone who has worked 40 years is at least 65 years old.
+q15:b:All young people entering the job market are highly trained professionals.
+q15:c:It is unfair for a person not to get a job in the profession for which that person was trained.
+q15:d:If people are forced to retire at age 65, there will be much dissatisfaction among at least some older people.
+q15:e:If retirement ceases to be mandatory at age 65, at least some people will choose to work past age 65.
+q16:a:Preschoolers have a tendency to imitate adults, and most adults follow strict routines.
+q16:b:Children intensely curious about new things have very short attention spans.
+q16:c:Some older children also develop strict systems that help them learn.
+q16:d:Preschoolers ask as many creative questions as do older children.
+q16:e:Preschool teachers generally report lower levels of stress than do other teachers.
+q17:a:takes for granted that no items in a body of circumstantial evidence are significantly more critical to the strength of the evidence than other items in that body
+q17:b:presumes, without providing justification, that the strength of a body of evidence is less than the sum of the strengths of the parts of that body
+q17:c:fails to consider the possibility that if many items in a body of circumstantial evidence were discredited, the overall body of evidence would be discredited
+q17:d:offers an analogy in support of a conclusion without indicating whether the two types of things compared share any similarities
+q17:e:draws a conclusion that simply restates a claim presented in support of that conclusion
+q18:a:An argument in favor of preserving nature will be less open to logical objections if it avoids the issue of what makes nature worth preserving.
+q18:b:If an argument for preserving nature emphasizes a specific characteristic of nature and is vulnerable to logical objections, then that characteristic does not provide a sufficient reason for preserving nature.
+q18:c:If it is philosophically disputable whether nature has a certain characteristic, then nature would be more clearly worth preserving if it did not have that characteristic.
+q18:d:Anything that has moral value is worth preserving regardless of whether people consider it to be beautiful.
+q18:e:An argument for preserving nature will be less open to logical objections if it appeals to a characteristic that can be regarded as a basis for preserving nature and that philosophically indisputably belongs to nature.
+q19:a:If the textbook contains an essay by Lind, then it will not contain an essay by Knight.
+q19:b:The textbook will contain an essay by only one of Lind, Knight, and Jones.
+q19:c:The textbook will not contain an essay by Knight.
+q19:d:If the textbook contains an essay by Lind, then it will also contain an essay by Jones.
+q19:e:The textbook will contain an essay by Lind.
+q20:a:Organisms unable to control their body temperatures do not have the capacity to generate internal body heat without relying on external factors.
+q20:b:Mammals are the only animals that have the ability to control their internal body temperatures.
+q20:c:The brain cannot support intelligence if the chemical reactions within it are subject to uncontrolled temperatures.
+q20:d:The development of intelligence in mammals is not independent of the chemical reactions in their brains taking place at the proper temperatures.
+q20:e:Organisms incapable of controlling their internal body temperatures are subject to unpredictable chemical processes.
+q21:a:The waste should never have been stored in its current location.
+q21:b:The waste should be placed in the most secure location that can ever be found.
+q21:c:Moving the waste to the proposed site would reduce the threat posed by the waste.
+q21:d:Whenever waste must be moved, one should limit the amount of time allotted to locating alternative waste storage sites.
+q21:e:Any site to which the waste could be moved will be safer than its present site.
+q22:a:Recent cutbacks in government spending have forced public libraries to purchase fewer popular contemporary novels.
+q22:b:Due to the installation of sophisticated new antitheft equipment, the recent increase in shoplifting that has hit most retail businesses has left bookstores largely unaffected.
+q22:c:Over the past few years many bookstores have capitalized on the lucrative coffee industry by installing coffee bars.
+q22:d:Bookstore owners reported a general shift away from the sale of inexpensive paperback novels and toward the sale of lucrative hardback books.
+q22:e:Citing a lack of free time, many survey respondents indicated that they had canceled magazine subscriptions in favor of purchasing individual issues at bookstores when time permits.
+q23:a:The problem with burning fossil fuels is that the supply is limited; so, the faster we expend these resources, the sooner we will be left without an energy source.
+q23:b:Many people gain more satisfaction from performing a job well—regardless of whether they like the job—than from doing merely adequately a job they like; thus, people who want to be happy should choose jobs they can do well.
+q23:c:Some students who study thoroughly do well in school. Thus, what is most important for success in school is not how much time a student puts into studying, but rather how thoroughly the student studies.
+q23:d:People do not fear change if they know what the change will bring; so, our employees’ fear stems not from our company’s undergoing change, but from our failing to inform them of what the changes entail.
+q23:e:Until ten years ago, we had good soil and our agriculture flourished. Therefore, the recent decline of our agriculture is a result of our soil rapidly eroding and there being nothing that can replace the good soil we lost.
+q24:a:supporting a general principle by means of an example
+q24:b:drawing a conclusion about a particular case on the basis of a general principle
+q24:c:supporting its conclusion by means of an analogy
+q24:d:claiming that whatever holds for each member of a group must hold for the whole group
+q24:e:inferring one general principle from another, more general, principle
+q25:a:The only issues on which Terry could make a presentation at the meeting are issues irrelevant to at least a majority of those who could attend.
+q25:b:If Terry makes a presentation at the meeting, the meeting will not be kept short.
+q25:c:No issue relevant to Terry could be relevant to a majority of those attending the meeting.
+q25:d:If Terry attends the meeting a different set of issues will be relevant to a majority of those attending than if Terry does not attend.
+q25:e:The majority of the issues to be addressed at the meeting are not relevant to Terry.

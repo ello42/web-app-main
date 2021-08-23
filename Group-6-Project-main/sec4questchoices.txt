@@ -1,0 +1,135 @@
+q01:a:The poetry of Lum departs from other Asian American poetry from Hawaii in that it acknowledges its author’s heritage but also expresses the poet’s search for a new local identity.
+q01:b:Lum’s poetry is in part an expression of the conflict between a desire to participate in a community with shared traditions and values and a desire for individual success.
+q01:c:Lum writes poetry that not only rejects features of the older literary tradition in which he participates but also rejects the popular literary traditions of Hawaiian writers.
+q01:d:The poetry of Lum illustrates the extent to which Asian American writers living in Hawaii have a different cultural perspective than those living in the continental U.S.
+q01:e:Lum’s poetry is an unsuccessful attempt to manage the psychological burdens of reconciling a sense of tradition with a healthy sense of individual identity.
+q02:a:Images in a poem should be explained in that poem so that their meaning will be widely understood.
+q02:b:The experience of living away from one’s homeland is necessary for developing a healthy perspective on one’s cultural traditions.
+q02:c:It is important to reconcile the values of individual achievement and enterprise with the desire to retain one’s cultural traditions.
+q02:d:One’s identity is continually in transition and poetry is a way of developing a static identity.
+q02:e:One cannot both seek a new identity and remain connected to one’s cultural traditions.
+q03:a:describe the social tension created by the mix of attitudes exhibited by citizens of Hawaii
+q03:b:deny that Hawaiian society is culturally distinct from that of the continental U.S.
+q03:c:identify the process by which immigrants learn to adapt to their new communities
+q03:d:refer to the constant change to which the culture in Hawaii is subject due to its diverse population
+q03:e:emphasize the changing attitudes of many immigrants to Hawaii toward their traditional cultural norms
+q04:a:inimical to the process of developing a local sensibility
+q04:b:centered on the individual’s drive to succeed
+q04:c:concerned with conflicts between different age groups
+q04:d:focused primarily on retaining ties to one’s homeland
+q04:e:tied to a search for a new sense of family in a new land
+q05:a:underscore the forceful and contentious tone of the work
+q05:b:indicate that the work has not been properly analyzed by literary critics
+q05:c:stress the radical difference between this work and Lum’s earlier work
+q05:d:emphasize the differences between this work and that of other Asian American poets from Hawaii
+q05:e:highlight the innovative nature of Lum’s experiments with poetic form
+q06:a:It cannot be used to support any specific political ideology.
+q06:b:It is an elegant demonstration of the poet’s appreciation of the stylistic contributions of his literary forebears.
+q06:c:It is most fruitfully understood as a meditation on the choice between new and old that confronts any human being in any culture.
+q06:d:It conveys thoughtful assessments of both his ancestral homeland tradition and the culture in which he is attempting to build a new identity.
+q06:e:It conveys Lum’s antipathy toward tradition by juxtaposing traditional and nontraditional images.
+q07:a:The residual influences of common law explain not only the divisions of subject matter but also the terminology associated with many legal procedures.
+q07:b:In the academic study of jurisprudence, theoretical interpretations of common law have traditionally been at odds with political interpretations of common law.
+q07:c:Common law, while often treated as an oral history of the English people, would, according to one scholar, be more fruitfully studied as a universally adaptable and constantly changing system of rules.
+q07:d:Although obviously steeped in history and tradition, common law has seldom been studied in relation to its development, as one theorist proposes that it be understood.
+q07:e:Although usually studied as a unitary and logical system of rules and norms, the history of common law shows that body of law to be anything but consistent and fair.
+q08:a:Modern jurisprudence misinterprets the nature of the legal tradition.
+q08:b:The history of law proves the original forms of common law to be antiquated and irrelevant to modern jurisprudence.
+q08:c:The history of law, if it is to be made applicable to modern jurisprudence, is best studied as a system of rules rather than as a literary text.
+q08:d:Mainstream theories of modern jurisprudence overlook the order and coherence inherent in legal history.
+q08:e:Mainstream theories of modern jurisprudence, by and large devoid of a sense of legal history, are unnecessarily dispiriting to students and the public alike.
+q09:a:a theory that traced modern customs involving property ownership to their origins in medieval practice 
+q09:b:a theory that relied on a comparison between modern courtroom procedures and medieval theatrical conventions
+q09:c:a theory that analyzed medieval marriage laws without examining their relationship to modern laws
+q09:d:a theory that compared the development of English common law in the twentieth century with simultaneous developments in German common law without examining the social repercussions of either legal system
+q09:e:a theory that compared rules of evidence in civil courts with those in criminal courts
+q10:a:Common law is more fruitfully studied as a relic of the history of the English people than as a legal code.
+q10:b:The “text” of common law has degenerated from an early stage of clarity to a current state of incoherence.
+q10:c:Without the public’s belief in the justness of common law, the legal system cannot be perpetuated.
+q10:d:While rich in literary significance, the “text” of common law has only a very limited applicability to modern life.
+q10:e:The common law “text” inherited by future generations will differ from the one currently in use.
+q11:a:concerned with the ways by which people seek to advance themselves in a profession
+q11:b:concerned with the covert and possibly unethical methods by which governments achieve their goals
+q11:c:having to do with the maintenance of ethical standards between professions and the citizenry 
+q11:d:having to do with the maintenance of an institution’s effectiveness
+q11:e:having to do with the manner in which institutions are perceived by radical theorists
+q12:a:histories of English politics
+q12:b:episodes of litigation from the Middle Ages
+q12:c:treatises on political philosophy
+q12:d:histories of ancient Roman jurisprudence
+q12:e:essays on narrative development
+q13:a:They are overly detailed and thus stultifying to both the student and the public.
+q13:b:They lack an essential dimension that would increase their accuracy
+q13:c:They overemphasize the practical aspects of the common law at the expense of the theoretical.
+q13:d:They excuse students of the law from the study of important legal disputes of the past.
+q13:e:They routinely treat the study of the law as an art rather than as a science.
+q14:a:explain a paradoxical situation and discuss a new view of the situation
+q14:b:supply a chronological summary of the history of an idea 
+q14:c:trace the ideas of an influential theorist and evaluate the theorist’s ongoing work
+q14:d:contrast the legal theories of past eras with those of today and suggest how these theories should be studied
+q14:e:advocate a traditional school of thought while criticizing a new trend
+q15:a:the blurring of the legal distinction between discovery and invention
+q15:b:the general effects of the market on the exchange of scientific knowledge
+q15:c:the role of scientific research in supplying public goods
+q15:d:new pharmaceuticals that result from industrial research
+q15:e:industry’s practice of restricting access to research findings
+q16:a:commercially successful research and commercially unsuccessful research
+q16:b:research methods and research results
+q16:c:a marketable commodity and a public good
+q16:d:a discovery and an invention
+q16:e:scientific research and other types of inquiry
+q17:a:theoretical frameworks
+q17:b:venture capitalists
+q17:c:physics and chemistry
+q17:d:industrial biotechnology
+q17:e:shareholders
+q18:a:the enormous increase in the volume of scientific knowledge that is being generated
+q18:b:the desire of individual researchers to receive credit for their discoveries
+q18:c:the striving of commercial enterprises to gain a competitive advantage in the market
+q18:d:moral reservations about the social impact of some scientific research
+q18:e:a drastic reduction in government funding for university research
+q19:a:Many scientific researchers who previously worked in universities have begun to work in the biotechnology industry.
+q19:b:Private biotechnology companies have invalidly patented the basic research findings of university researchers.
+q19:c:Because of the nature of current scientific research, patent authorities no longer consider the distinction between discoveries and inventions to be clear-cut.
+q19:d:In the past, scientists working in industry had free access to the results of basic research conducted in universities.
+q19:e:Government-funded research in universities has traditionally been motivated by the goals of private industry.
+q20:a:Control of agricultural pests is most effectively and safely accomplished without the use of pesticides, because these pesticides can kill predators that also control the pests.
+q20:b:Experimental verification is essential in demonstrating the effectiveness of natural controls of agricultural pests.
+q20:c:The relationship between Typhlodromus and cyclamen mites demonstrates how natural predation can keep a population of agricultural pests in check.
+q20:d:Predation by Typhlodromus is essential for the control of cyclamen mite populations in strawberry fields.
+q20:e:Similarity in mode and timing of reproduction is what enables Typhlodromus effectively to control populations of cyclamen mites in fields of strawberry plants.
+q21:a:The reproduction of the predator population should be synchronized with that of the prey population, so that the number of predators surges just prior to a surge in prey numbers
+q21:b:The effectiveness of the predatory relationship should be experimentally demonstrable in greenhouse as well as field applications.
+q21:c:The prey population should be able to survive in times of low crop productivity, so that the predator population will not decrease to very low levels.
+q21:d:The predator population’s level of consumption of the prey species should be responsive to variations in the size of the prey population.
+q21:e:The predator population should be vulnerable only to pesticides to which the prey population is also vulnerable.
+q22:a:its ability to withstand most insecticides except parathion
+q22:b:its lack of natural predators in strawberry fields
+q22:c:its ability to live in different climates in different geographic regions 
+q22:d:its constant food supply in cyclamen mite populations
+q22:e:its ability to survive when few prey are available
+q23:a:In both treated and untreated plots inhabited by both Typhlodromus and cyclamen mites, the latter would have been effectively controlled.
+q23:b:Cyclamen mite populations in all treated plots from which Typhlodromus was absent would have been substantially lower than in untreated plots inhabited by both kinds of mites.
+q23:c:In the treated plots, slowed reproduction in cyclamen mites would have led to a loss of reproductive synchrony between Typhlodromus and cyclamen mites.
+q23:d:In the treated plots, Typhlodromus populations would have decreased temporarily and would have eventually increased.
+q23:e:In the treated plots, cyclamen mite populations would have reached significantly damaging levels more slowly, but would have remained at those levels longer, than in untreated plots.
+q24:a:If the use of predators to control cyclamen mite populations fails, then parathion should be used to control these populations.
+q24:b:Until the effects of the predators on beneficial insects that live in strawberry fields are assessed, such predators should be used with caution to control cyclamen mite populations.
+q24:c:Insecticides should be used to control certain pest populations in fields of crops only if the use of natural predators has proven inadequate.
+q24:d:If an insecticide can effectively control pest populations as well as predator populations, then it should be used instead of predators to control pest populations.
+q24:e:Predators generally control pest populations more effectively than pesticides because they do not harm the crops that their prey feed on.
+q25:a:Mites that reproduce by parthenogenesis do so at approximately equal rates.
+q25:b:Predatory mites typically have a longer reproductive life span than do cyclamen mites.
+q25:c:Typhlodromus can lay their eggs in synchrony with cyclamen mites.
+q25:d:Typhlodromus can reproduce at least as quickly as cyclamen mites.
+q25:e:The egg-laying rate of Typhlodromus is slower in the presence of cyclamen mites than it is in their absence.
+q26:a:The individual Typhlodromus mites that have the longest reproductive life spans typically also lay the greatest number of eggs per day.
+q26:b:The insecticides that are typically used for mite control on strawberry plants kill both predatory and nonpredatory species of mites.
+q26:c:In areas in which strawberry plants become infested by cyclamen mites, winters tend to be short and relatively mild.
+q26:d:Typhlodromus are sometimes preyed upon by another species of mites that is highly susceptible to parathion.
+q26:e:Typhlodromus easily tolerate the same range of climatic conditions that strawberry plants do.
+q27:a:Strawberry crops can support populations of both cyclamen mites and Typhlodromus mites without significant damage to those crops.
+q27:b:For control of cyclamen mites by another mite species to be effective, it is crucial that the two species have the same mode of reproduction.
+q27:c:Factors that make Typhlodromus effective against cyclamen mites also make it effective against certain other pests of strawberry plants.
+q27:d:When Typhlodromus is relied on to control cyclamen mites in strawberry crops, pesticides may be necessary to prevent significant damage during the first year.
+q27:e:Strawberry growers have unintentionally caused cyclamen mites to become a serious crop pest by the indiscriminate use of parathion.

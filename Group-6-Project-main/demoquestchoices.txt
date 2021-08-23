@@ -1,0 +1,25 @@
+q01:a:Problems with electronic goods that occur after the manufacturer’s warranty expires are generally inexpensive to fix in comparison with the cost of an extended warranty.
+q01:b:Because problems are so infrequent after the manufacturer’s warranty expires, extended warranties on electronic goods are generally inexpensive.
+q01:c:Most of those who buy extended warranties on electronic goods do so because special circumstances make their item more likely to break than is usually the case.
+q01:d:Some extended warranties on electronic goods cover the product for the period covered by the manufacturer’s warranty as well as subsequent years.
+q01:e:Retail stores sell extended warranties in part because consumers who purchase them are likely to purchase other products from the same store.
+q02:a:attacks the environmentalists themselves instead of their positions
+q02:b:presumes, without providing warrant, that only an absence of environmental regulations could prevent environmental degradation 
+q02:c:fails to consider the possibility that the condition of the environment would have worsened even more without environmental regulations
+q02:d:fails to justify its presumption that reducing excessive regulations is more important than preserving the environment 
+q02:e:fails to consider the views of the environmentalists’ opponents
+q03:a:Sounds that were never used in past musical compositions are used today.
+q03:b:Sounds that were once considered dissonant are more pleasing to modern listeners.
+q03:c:It is inappropriate to take a developmental view of music.
+q03:d:It is unwise to say that one composer is better than another.
+q03:e:Our understanding of music can improve over the course of time.
+q04:a:A careful search discovered no live mosquitoes in the vicinity of the device after the test.
+q04:b:A very large proportion of the insects that were attracted to the device were not mosquitoes.
+q04:c:The device is more likely to kill beneficial insects than it is to kill harmful insects.
+q04:d:Many of the insects that were killed by the device are mosquito-eating insects.
+q04:e:The device does not succeed in killing all of the insects that it attracts.
+q05:a:It is unlikely that brain-scanning technology will ever enable researchers to understand how the brain enables us to think.
+q05:b:There is no way that researchers can know for certain that subjects whose brains are being scanned are accurately reporting what they are thinking.
+q05:c:Because subjects whose brains are being scanned may not accurately report what they are thinking, the results of brain-scanning research should be regarded with great skepticism.
+q05:d:Brain scans can provide information about the accuracy of the verbal reports of subjects whose brains are being scanned.
+q05:e:Information from brain scans can help researchers understand how the brain enables us to think only if the verbal reports of those whose brains are being scanned are accurate.

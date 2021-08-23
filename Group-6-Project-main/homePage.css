@@ -1,0 +1,6 @@
+/*This code block sets up the picture that goes below the navigation bar on the home page.*/
+img.homePageHeaderPicture{
+	background-image: url('mountainspic.jpeg');
+	width: 100%;
+	height: 100%;
+}

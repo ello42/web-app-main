@@ -1,0 +1,209 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<title>Home Page</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="./style.css">
+	<link rel="stylesheet" type="text/css" href="./homePage.css">
+</head>
+
+<body>
+	<!-- Navigation menu setup and building -->
+	<nav class="navBar navbar navbar-expand-md sticky-top navbar-custom">
+		<button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar">
+			&#9776;
+		</button>
+		<a class="navbar-brand" href="index.html">Home Page</a>
+		<div class="collapse navbar-collapse" id="exCollapsingNavbar">
+			<ul class="nav navbar-nav">
+				<li class="nav-item logged-in"><a class="nav-link" href="./video.html">Videos</a></li>
+				<li class="nav-item logged-in" style="margin-left:15px;"><a href='https://www.timetap.com/book/WASHINGTONPREPTESTAPP' target='_blank'> <img src='https://www.timetap.com/buttons/schedule-appointment-yellow.png' width='192' height='32' border='0' alt='Schedule Appointment'/> </a></li>
+			</ul>
+			<ul class="nav navbar-nav flex-row justify-content-between ml-auto">
+				<li class="nav-item order-2 order-md-1"><a href="#" class="nav-link" title="settings"><i
+							class="fa fa-cog fa-fw fa-lg"></i></a></li>
+			</ul>
+
+			<!--sign in form and buttons-->
+			<form class="form-inline logged-out" id="signin">
+
+				<label class="sr-only" for="email">Email:</label>
+				<input type="email" class="form-control mb-2 mr-sm-2" id="email" placeholder="Email" required>
+
+				<label class="sr-only" for="password">Password:</label>
+				<input type="password" class="form-control mb-2 mr-sm-2" id="password" placeholder="Password" required>
+
+				<button class="btn btn-default mb-2 mr-sm-2 bg-light" id="login">Login</button>
+				<button class="btn btn-default mb-2 mr-sm-2 bg-light" data-toggle="modal"
+					data-target="#registerModal">Register</button>
+			</form>
+
+			<!--user info-->
+			<a href="./profile.html" class="logged-in mb-2 mr-sm-4" id="userInfo" data-toggle="tooltip"
+				title="View profile"></a>
+			<!--logout button-->
+			<button class="btn btn-default logged-in mb-2 mr-sm-2 bg-light" id="logout" onclick="logout()"
+				style="display:none">Logout</button>
+	</nav>
+
+
+	<!--End of navigation menu setup-->
+
+	<!--Alert for incorrect username or password-->
+	<div class="alert alert-dismissible alert-danger" id="badLogin" style="display: none"></div>
+
+	<!--Modal to get email for password reset-->
+	<div id="resetModal" class="modal fade" role="dialog">
+		<div class="modal-dialog">
+
+			<!-- Modal content-->
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal">&times;</button>
+				</div>
+				<div class="modal-body">
+					<form id="reset">
+						<div class="form-group">
+							<label for="email">Enter your email:</label>
+							<input type="email" class="form-control" id="emailReset" required>
+						</div>
+						<button class="btn btn-default" type="submit">Send reset email</button>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--End Modal-->
+
+	<!--Message for password reset email sent-->
+	<div class="alert alert-success alert-dismissible" id="pwdReset" style="display:none"></div>
+
+
+	<!--Modal for register form-->
+	<div id="registerModal" class="modal fade" role="dialog">
+		<div class="modal-dialog">
+
+			<!-- Modal content-->
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal">&times;</button>
+					<h4 class="modal-title">Register</h4>
+				</div>
+				<div class="modal-body">
+					<form id="signup">
+						<div class="form-group">
+							<label for="firstName">First Name*:</label>
+							<input type="text" class="form-control" id="firstName" required>
+						</div>
+						<div class="form-group">
+							<label for="lastName">Last Name*:</label>
+							<input type="text" class="form-control" id="lastName" required>
+						</div>
+						<div class="form-group">
+							<label for="email">Email*:</label>
+							<input type="email" class="form-control" id="email" required>
+						</div>
+						<div class="form-group">
+							<label for="phone">Phone Number*:</label>
+							<input type="tel" class="form-control" id="phone" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}"
+								placeholder="xxx-xxx-xxxx" required>
+							<div class="form-group">
+								<label for="password">Password*:</label>
+								<input type="password" class="form-control" id="password" minlength="8" required>
+							</div>
+							<div class="form-group">
+								<label for="confPwd">Confirm Password*:</label>
+								<input type="password" class="form-control" id="confPwd" minlength="8" required>
+							</div>
+						</div>
+						<div class="form-group">
+							<label for="school">School:</label>
+							<input type="text" class="form-control" id="school">
+						</div>
+						<div class="form-group">
+							<label for="gradDate">Graduation Date:</label>
+							<input type="date" class="form-control" id="gradDate">
+						</div>
+						<br>
+						<p>* = Required</p>
+						<button type="submit" class="btn btn-default" id="register">Submit</button>
+					</form>
+				</div>
+				<div class="modal-footer">
+					<!--Alert for incorrect username or password-->
+					<div class="alert alert-dismissible alert-danger" id="badSignup" style="display: none"></div>
+					<button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
+				</div>
+			</div>
+
+		</div>
+	</div>
+	<!--End Modal -->
+
+
+	<!--Begin page content-->
+	<div class="pageBody">
+		<img class="homePageHeaderPicture" src="./mountainspic.jpeg" alt="This is a picture of a mountain.">
+		<h1 class="logged-out" id="mainText"><strong>GET INTO YOUR DREAM SCHOOL</strong></h1>
+
+		<!--page content for logged in users-->
+		<div class="container logged-in" id="userContent" style="display:none">
+
+			<!--list of exams-->
+			<!--content is added via JavaScript in auth.js-->
+			<div class="row" id="exams"></div>
+			<div class="row" id="scores"></div>
+		</div>
+	</div>
+	<!--end container for page elements-->
+
+
+	<!-- Firebase Integration -->
+	<script src="https://www.gstatic.com/firebasejs/8.3.1/firebase-app.js"></script>
+	<script src="https://www.gstatic.com/firebasejs/8.3.1/firebase-auth.js"></script>
+	<script src="https://www.gstatic.com/firebasejs/8.3.1/firebase-firestore.js"></script>
+
+	<script>
+		//Base configuration for Firebase
+		var firebaseConfig = {
+			apiKey: "AIzaSyD_WYAVD2BMGiAaLOL07f1h4XTajOMmq0o",
+			authDomain: "washington-prep-app.firebaseapp.com",
+			projectId: "washington-prep-app",
+			storageBucket: "washington-prep-app.appspot.com",
+			messagingSenderId: "1068973417050",
+			appId: "1:1068973417050:web:7e287a624b1b650138ee63",
+			measurementId: "G-NM7GTTB5Z0"
+		};
+
+		// Initialize Firebase
+		firebase.initializeApp(firebaseConfig);
+
+		// update firestore settings
+		firebase.firestore().settings({ timestampsInSnapshots: true });
+
+	</script>
+
+	<!--Javascript file for Firebase authentication functionality-->
+	<script src="scripts/auth.js"></script>
+	<script src="scripts/index.js"></script>
+	<!-- Start of LiveChat (www.livechatinc.com) code -->
+	<script>
+		window.__lc = window.__lc || {};
+		window.__lc.license = 12765213;
+		; (function (n, t, c) { function i(n) { return e._h ? e._h.apply(null, n) : e._q.push(n) } var e = { _q: [], _h: null, _v: "2.0", on: function () { i(["on", c.call(arguments)]) }, once: function () { i(["once", c.call(arguments)]) }, off: function () { i(["off", c.call(arguments)]) }, get: function () { if (!e._h) throw new Error("[LiveChatWidget] You can't use getters before load."); return i(["get", c.call(arguments)]) }, call: function () { i(["call", c.call(arguments)]) }, init: function () { var n = t.createElement("script"); n.async = !0, n.type = "text/javascript", n.src = "https://cdn.livechatinc.com/tracking.js", t.head.appendChild(n) } }; !n.__lc.asyncInit && e.init(), n.LiveChatWidget = n.LiveChatWidget || e }(window, document, [].slice))
+	</script>
+	<noscript><a href="https://www.livechatinc.com/chat-with/12765213/" rel="nofollow">Chat with us</a>, powered by <a
+			href="https://www.livechatinc.com/?welcome" rel="noopener nofollow" target="_blank">LiveChat</a></noscript>
+	<!-- End of LiveChat code -->
+
+
+</body>
+
+</html>
